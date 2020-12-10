@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Méteo App</string>
+    <string name="city">City</string>
+    <string name="climat">Sunny</string>
+    <string name="date">Date</string>
+    <string name="c_or_f">C</string>
+    <string name="temp_30">30</string>
+</resources>
